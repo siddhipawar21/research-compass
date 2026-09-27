@@ -1,0 +1,20 @@
+[
+  {
+    "id": "gnn_climate",
+    "title": "Graph neural downscaling of Indian monsoon rainfall",
+    "abstract": "We propose a graph neural network that downscales Indian monsoon rainfall from coarse climate-model grids onto district-level watershed graphs. Nodes are catchments with orography and soil covariates; edges follow river connectivity. The claim is that a GNN outperforms CNN and linear statistical downscaling on extreme rainfall days while remaining calibrated for flood early warning in Maharashtra and Kerala.",
+    "fixture_file": "gnn_climate.json"
+  },
+  {
+    "id": "indic_asr",
+    "title": "Self-supervised ASR for low-resource Indian languages",
+    "abstract": "We pretrain a wav2vec-style encoder on unlabeled telephone and community-radio speech in Marathi, Bhojpuri, and Kannada, then fine-tune with 20 hours of labeled data per language. The claim is that this matches or beats a 300-hour supervised Conformer on noisy conversational test sets and that a single multilingual encoder transfers to unseen Indic languages without a new tokenizer.",
+    "fixture_file": "indic_asr.json"
+  },
+  {
+    "id": "fed_telemed",
+    "title": "Federated learning for rural telemedicine triage",
+    "abstract": "We study federated training of a symptom-and-vitals triage model across primary health centres in rural India without sharing raw patient records. The claim is that federated averaging plus simple differential privacy matches a centralized baseline on referral accuracy while surviving intermittent connectivity and non-IID clinic populations.",
+    "fixture_file": "fed_telemed.json"
+  }
+]

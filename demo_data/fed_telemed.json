@@ -1,0 +1,826 @@
+[
+  {
+    "engine": "google_scholar",
+    "purpose": "closest papers",
+    "params": {
+      "q": "federated learning rural telemedicine India",
+      "num": "10",
+      "hl": "en"
+    },
+    "response": {
+      "organic_results": [
+        {
+          "title": "Communication-efficient learning of deep networks from decentralized data",
+          "link": "",
+          "snippet": "FedAvg demonstrates that averaging locally trained models can approach centralized accuracy.",
+          "publication_info": {
+            "summary": "H. B. McMahan et al. - AISTATS 2017",
+            "authors": [
+              {
+                "name": "H. B. McMahan"
+              }
+            ]
+          },
+          "inline_links": {
+            "cited_by": {
+              "total": 25000,
+              "cites_id": "1"
+            }
+          },
+          "year": "2017"
+        },
+        {
+          "title": "Federated learning for healthcare: a tutorial and survey",
+          "link": "",
+          "snippet": "Survey of FL in health. Notes non-IID clinics and intermittent connectivity as open problems.",
+          "publication_info": {
+            "summary": "J. Xu et al. - ACM Computing Surveys 2021",
+            "authors": [
+              {
+                "name": "J. Xu"
+              },
+              {
+                "name": "B. Glicksberg"
+              }
+            ]
+          },
+          "inline_links": {
+            "cited_by": {
+              "total": 640,
+              "cites_id": "1"
+            }
+          },
+          "year": "2021"
+        },
+        {
+          "title": "Privacy accounting for federated medical triage models",
+          "link": "",
+          "snippet": "Simple DP-FedAvg often cannot match a centralized baseline at epsilon values hospitals accept.",
+          "publication_info": {
+            "summary": "A. Narayan, L. Chen - CHIL 2022",
+            "authors": [
+              {
+                "name": "A. Narayan"
+              },
+              {
+                "name": "L. Chen"
+              }
+            ]
+          },
+          "inline_links": {
+            "cited_by": {
+              "total": 73,
+              "cites_id": "1"
+            }
+          },
+          "year": "2022"
+        },
+        {
+          "title": "Learning from rural primary care data in India: a centralized EHR study",
+          "link": "",
+          "snippet": "Centralized models for referral triage in Indian PHCs. No federated training.",
+          "publication_info": {
+            "summary": "R. Deshmukh, P. Iyer - Journal of Biomedical Informatics 2020",
+            "authors": [
+              {
+                "name": "R. Deshmukh"
+              },
+              {
+                "name": "P. Iyer"
+              }
+            ]
+          },
+          "inline_links": {
+            "cited_by": {
+              "total": 48,
+              "cites_id": "1"
+            }
+          },
+          "year": "2020"
+        },
+        {
+          "title": "Non-IID federated optimization fails under clinic shift",
+          "link": "",
+          "snippet": "FedAvg underperforms when client distributions differ strongly; personalization required.",
+          "publication_info": {
+            "summary": "Y. Zhao et al. - arXiv 2018",
+            "authors": [
+              {
+                "name": "Y. Zhao"
+              }
+            ]
+          },
+          "inline_links": {
+            "cited_by": {
+              "total": 2100,
+              "cites_id": "1"
+            }
+          },
+          "year": "2018"
+        },
+        {
+          "title": "On-device inference for community health workers",
+          "link": "",
+          "snippet": "Connectivity-aware deployment in rural India; training still centralized.",
+          "publication_info": {
+            "summary": "K. Bose, S. Reddy - COMPASS 2023",
+            "authors": [
+              {
+                "name": "K. Bose"
+              },
+              {
+                "name": "S. Reddy"
+              }
+            ]
+          },
+          "inline_links": {
+            "cited_by": {
+              "total": 15,
+              "cites_id": "1"
+            }
+          },
+          "year": "2023"
+        }
+      ]
+    }
+  },
+  {
+    "engine": "google_scholar",
+    "purpose": "recent",
+    "params": {
+      "q": "federated learning rural telemedicine India",
+      "num": "10",
+      "hl": "en",
+      "as_ylo": "2022"
+    },
+    "response": {
+      "organic_results": [
+        {
+          "title": "Intermittent connectivity in federated PHC training",
+          "link": "",
+          "snippet": "Drop-and-resume FedAvg over simulated rural links loses 4\u20137 points versus always-on clients; no differential privacy.",
+          "publication_info": {
+            "summary": "M. Rao, T. Singh - COMPASS 2024",
+            "authors": [
+              {
+                "name": "M. Rao"
+              },
+              {
+                "name": "T. Singh"
+              }
+            ]
+          },
+          "inline_links": {
+            "cited_by": {
+              "total": 6,
+              "cites_id": "1"
+            }
+          },
+          "year": "2024"
+        },
+        {
+          "title": "Personalization layers for non-IID clinic triage",
+          "link": "",
+          "snippet": "Local heads recover accuracy under clinic shift; global FedAvg still underperforms a centralized baseline.",
+          "publication_info": {
+            "summary": "H. Park, R. Mehta - CHIL 2025",
+            "authors": [
+              {
+                "name": "H. Park"
+              },
+              {
+                "name": "R. Mehta"
+              }
+            ]
+          },
+          "inline_links": {
+            "cited_by": {
+              "total": 3,
+              "cites_id": "1"
+            }
+          },
+          "year": "2025"
+        },
+        {
+          "title": "On-device vitals models for ASHA workers in Bihar",
+          "link": "",
+          "snippet": "Inference on-device with centralized training. Federated updates were out of scope.",
+          "publication_info": {
+            "summary": "A. Kumari, S. Joseph - ICTD 2023",
+            "authors": [
+              {
+                "name": "A. Kumari"
+              },
+              {
+                "name": "S. Joseph"
+              }
+            ]
+          },
+          "inline_links": {
+            "cited_by": {
+              "total": 12,
+              "cites_id": "1"
+            }
+          },
+          "year": "2023"
+        }
+      ]
+    }
+  },
+  {
+    "engine": "google_scholar",
+    "purpose": "surveys",
+    "params": {
+      "q": "federated learning rural telemedicine India review OR survey",
+      "num": "8",
+      "hl": "en"
+    },
+    "response": {
+      "organic_results": [
+        {
+          "title": "Federated learning in low-resource health systems: a review",
+          "link": "",
+          "snippet": "Review covering connectivity, DP, and non-IID clinics. India PHC deployments remain scarce in the literature.",
+          "publication_info": {
+            "summary": "D. Okonkwo, L. Berg - npj Digital Medicine 2024",
+            "authors": [
+              {
+                "name": "D. Okonkwo"
+              },
+              {
+                "name": "L. Berg"
+              }
+            ]
+          },
+          "inline_links": {
+            "cited_by": {
+              "total": 19,
+              "cites_id": "1"
+            }
+          },
+          "year": "2024"
+        },
+        {
+          "title": "Differential privacy versus utility in medical federated averaging",
+          "link": "",
+          "snippet": "Survey of DP-FedAvg. Simple noise schedules cannot match centralized referral accuracy at hospital-accepted epsilon.",
+          "publication_info": {
+            "summary": "C. Walsh, P. Gupta - JAMIA 2023",
+            "authors": [
+              {
+                "name": "C. Walsh"
+              },
+              {
+                "name": "P. Gupta"
+              }
+            ]
+          },
+          "inline_links": {
+            "cited_by": {
+              "total": 28,
+              "cites_id": "1"
+            }
+          },
+          "year": "2023"
+        }
+      ]
+    }
+  },
+  {
+    "engine": "google",
+    "purpose": "code",
+    "params": {
+      "q": "federated learning rural telemedicine India site:github.com"
+    },
+    "response": {
+      "organic_results": [
+        {
+          "title": "adap/flower",
+          "link": "",
+          "snippet": "Federated learning framework. No PHC triage case in this snippet."
+        },
+        {
+          "title": "OpenMined/PySyft",
+          "link": "",
+          "snippet": "Privacy-preserving ML toolkit."
+        }
+      ]
+    }
+  },
+  {
+    "engine": "google",
+    "purpose": "datasets",
+    "params": {
+      "q": "federated learning rural telemedicine India dataset site:huggingface.co OR site:kaggle.com"
+    },
+    "response": {
+      "organic_results": [
+        {
+          "title": "Synthetic symptom datasets on Kaggle",
+          "link": "",
+          "snippet": "Not rural Indian PHC records. Real EHR sharing restricted."
+        }
+      ]
+    }
+  },
+  {
+    "engine": "google_news",
+    "purpose": "news",
+    "params": {
+      "q": "federated learning rural telemedicine India",
+      "hl": "en",
+      "gl": "in"
+    },
+    "response": {
+      "news_results": [
+        {
+          "title": "NHA discusses federated architecture for ABDM",
+          "link": "",
+          "snippet": "Policy interest in not pooling raw records. No published triage accuracy.",
+          "source": {
+            "name": "Business Standard"
+          }
+        },
+        {
+          "title": "Telemedicine startups pitch on-device AI",
+          "link": "",
+          "snippet": "Hype around privacy-preserving triage; independent trials thin.",
+          "source": {
+            "name": "Moneycontrol"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "engine": "google_trends",
+    "purpose": "trends",
+    "params": {
+      "q": "federated learning",
+      "data_type": "TIMESERIES",
+      "date": "today 5-y"
+    },
+    "response": {
+      "interest_over_time": {
+        "timeline_data": [
+          {
+            "date": "2021-01",
+            "timestamp": "1609459200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "30",
+                "extracted_value": 30
+              }
+            ]
+          },
+          {
+            "date": "2021-02",
+            "timestamp": "1611959200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "32",
+                "extracted_value": 32
+              }
+            ]
+          },
+          {
+            "date": "2021-03",
+            "timestamp": "1614459200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "31",
+                "extracted_value": 31
+              }
+            ]
+          },
+          {
+            "date": "2021-04",
+            "timestamp": "1616959200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "35",
+                "extracted_value": 35
+              }
+            ]
+          },
+          {
+            "date": "2021-05",
+            "timestamp": "1619459200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "40",
+                "extracted_value": 40
+              }
+            ]
+          },
+          {
+            "date": "2021-06",
+            "timestamp": "1621959200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "38",
+                "extracted_value": 38
+              }
+            ]
+          },
+          {
+            "date": "2021-07",
+            "timestamp": "1624459200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "42",
+                "extracted_value": 42
+              }
+            ]
+          },
+          {
+            "date": "2021-08",
+            "timestamp": "1626959200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "48",
+                "extracted_value": 48
+              }
+            ]
+          },
+          {
+            "date": "2021-09",
+            "timestamp": "1629459200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "47",
+                "extracted_value": 47
+              }
+            ]
+          },
+          {
+            "date": "2021-10",
+            "timestamp": "1631959200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "45",
+                "extracted_value": 45
+              }
+            ]
+          },
+          {
+            "date": "2021-11",
+            "timestamp": "1634459200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "44",
+                "extracted_value": 44
+              }
+            ]
+          },
+          {
+            "date": "2021-12",
+            "timestamp": "1636959200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "43",
+                "extracted_value": 43
+              }
+            ]
+          },
+          {
+            "date": "2022-01",
+            "timestamp": "1639459200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "41",
+                "extracted_value": 41
+              }
+            ]
+          },
+          {
+            "date": "2022-02",
+            "timestamp": "1641959200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "40",
+                "extracted_value": 40
+              }
+            ]
+          },
+          {
+            "date": "2022-03",
+            "timestamp": "1644459200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "42",
+                "extracted_value": 42
+              }
+            ]
+          },
+          {
+            "date": "2022-04",
+            "timestamp": "1646959200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "39",
+                "extracted_value": 39
+              }
+            ]
+          },
+          {
+            "date": "2022-05",
+            "timestamp": "1649459200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "38",
+                "extracted_value": 38
+              }
+            ]
+          },
+          {
+            "date": "2022-06",
+            "timestamp": "1651959200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "37",
+                "extracted_value": 37
+              }
+            ]
+          },
+          {
+            "date": "2022-07",
+            "timestamp": "1654459200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "36",
+                "extracted_value": 36
+              }
+            ]
+          },
+          {
+            "date": "2022-08",
+            "timestamp": "1656959200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "35",
+                "extracted_value": 35
+              }
+            ]
+          },
+          {
+            "date": "2022-09",
+            "timestamp": "1659459200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "34",
+                "extracted_value": 34
+              }
+            ]
+          },
+          {
+            "date": "2022-10",
+            "timestamp": "1661959200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "36",
+                "extracted_value": 36
+              }
+            ]
+          },
+          {
+            "date": "2022-11",
+            "timestamp": "1664459200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "35",
+                "extracted_value": 35
+              }
+            ]
+          },
+          {
+            "date": "2022-12",
+            "timestamp": "1666959200",
+            "values": [
+              {
+                "query": "federated learning",
+                "value": "33",
+                "extracted_value": 33
+              }
+            ]
+          }
+        ],
+        "averages": [
+          {
+            "query": "federated learning",
+            "value": 38
+          }
+        ]
+      }
+    }
+  },
+  {
+    "engine": "google_scholar_profiles",
+    "purpose": "authors",
+    "params": {
+      "mauthors": "federated learning healthcare India",
+      "hl": "en"
+    },
+    "response": {
+      "profiles": [
+        {
+          "name": "R. Deshmukh",
+          "title": "R. Deshmukh",
+          "link": "",
+          "author_id": "",
+          "affiliations": "AIIMS / public health informatics",
+          "snippet": "AIIMS / public health informatics",
+          "cited_by": 900,
+          "interests": [
+            {
+              "title": "EHR"
+            },
+            {
+              "title": "PHC"
+            }
+          ]
+        },
+        {
+          "name": "K. Bose",
+          "title": "K. Bose",
+          "link": "",
+          "author_id": "",
+          "affiliations": "IIIT Hyderabad, social computing",
+          "snippet": "IIIT Hyderabad, social computing",
+          "cited_by": 400,
+          "interests": [
+            {
+              "title": "HCI"
+            },
+            {
+              "title": "health"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "engine": "google",
+    "purpose": "venues",
+    "params": {
+      "q": "federated learning rural telemedicine India conference COMPASS CHIL CFP 2026"
+    },
+    "response": {
+      "organic_results": [
+        {
+          "title": "ACM COMPASS 2026",
+          "link": "",
+          "snippet": "Computing and sustainable societies. Deadline 3 Mar 2026."
+        },
+        {
+          "title": "CHIL 2026 Call",
+          "link": "",
+          "snippet": "Conference on health, inference, and learning. Deadline not found."
+        }
+      ]
+    }
+  },
+  {
+    "engine": "google",
+    "purpose": "grants",
+    "params": {
+      "q": "federated learning rural telemedicine India ICMR DBT grant fellowship India"
+    },
+    "response": {
+      "organic_results": [
+        {
+          "title": "ICMR extra-mural grants",
+          "link": "",
+          "snippet": "Health research grants in India. Deadline not found in this snippet."
+        },
+        {
+          "title": "DBT BIRAC biotechnology grants",
+          "link": "",
+          "snippet": "India biotech funding. Dates not listed here."
+        }
+      ]
+    }
+  },
+  {
+    "engine": "google",
+    "purpose": "contradictions",
+    "params": {
+      "q": "federated learning rural telemedicine India does not match centralized OR non-IID fails"
+    },
+    "response": {
+      "organic_results": [
+        {
+          "title": "DP-FedAvg cannot match centralized referral accuracy",
+          "link": "",
+          "snippet": "Simple differential privacy does not match a centralized baseline at practical epsilon."
+        }
+      ]
+    }
+  },
+  {
+    "engine": "google_scholar",
+    "purpose": "claim-like",
+    "params": {
+      "q": "federated averaging differential privacy primary health centres India",
+      "num": "8",
+      "hl": "en"
+    },
+    "response": {
+      "organic_results": [
+        {
+          "title": "Federated averaging across primary health centres without sharing records",
+          "link": "",
+          "snippet": "Simulated PHCs show FedAvg close to centralized accuracy only without DP; with DP the gap reopens.",
+          "publication_info": {
+            "summary": "N. Verma, J. Cole - arXiv 2025",
+            "authors": [
+              {
+                "name": "N. Verma"
+              },
+              {
+                "name": "J. Cole"
+              }
+            ]
+          },
+          "inline_links": {
+            "cited_by": {
+              "total": 2,
+              "cites_id": "1"
+            }
+          },
+          "year": "2025"
+        },
+        {
+          "title": "Non-IID rural clinic populations break vanilla FedAvg",
+          "link": "",
+          "snippet": "Synthetic non-IID splits of Indian PHC-like features; vanilla averaging underperforms local models.",
+          "publication_info": {
+            "summary": "E. D'Souza, K. Amin - arXiv 2024",
+            "authors": [
+              {
+                "name": "E. D'Souza"
+              },
+              {
+                "name": "K. Amin"
+              }
+            ]
+          },
+          "inline_links": {
+            "cited_by": {
+              "total": 5,
+              "cites_id": "1"
+            }
+          },
+          "year": "2024"
+        },
+        {
+          "title": "Simple DP noise on symptom-and-vitals triage",
+          "link": "",
+          "snippet": "Epsilon budgets used in hospitals cause the federated model not to match a centralized baseline.",
+          "publication_info": {
+            "summary": "B. Liu, A. Raman - PMLR 2023",
+            "authors": [
+              {
+                "name": "B. Liu"
+              },
+              {
+                "name": "A. Raman"
+              }
+            ]
+          },
+          "inline_links": {
+            "cited_by": {
+              "total": 9,
+              "cites_id": "1"
+            }
+          },
+          "year": "2023"
+        }
+      ]
+    }
+  }
+]

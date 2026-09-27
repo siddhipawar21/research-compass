@@ -1,0 +1,1 @@
+"""Research Compass core package."""
